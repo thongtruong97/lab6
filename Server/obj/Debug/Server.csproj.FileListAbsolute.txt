@@ -1,0 +1,48 @@
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\bin\Debug\Server.exe.config
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\bin\Debug\Server.exe
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\bin\Debug\Server.pdb
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\obj\Debug\Server.Form1.resources
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\obj\Debug\Server.exe
+c:\users\tran phuong tuan\documents\visual studio 2015\Projects\ChatTCP\Server\obj\Debug\Server.pdb
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\bin\Debug\Server.exe.config
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\bin\Debug\Server.exe
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\bin\Debug\Server.pdb
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.Form1.resources
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.exe
+D:\Thay P.Tuan\Lap trinh mang\ChatTCP\Server\obj\Debug\Server.pdb
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\bin\Debug\Server.exe.config
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\bin\Debug\Server.exe
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\bin\Debug\Server.pdb
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.Form1.resources
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.exe
+D:\Thay P.Tuan\Lap trinh mang\ChatTCPMultiThread\Server\obj\Debug\Server.pdb
+F:\ChatTCPMultiThread\Server\bin\Debug\Server.exe.config
+F:\ChatTCPMultiThread\Server\bin\Debug\Server.exe
+F:\ChatTCPMultiThread\Server\bin\Debug\Server.pdb
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.Form1.resources
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.Properties.Resources.resources
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.exe
+F:\ChatTCPMultiThread\Server\obj\Debug\Server.pdb
+F:\lab6\Server\bin\Debug\Server.exe.config
+F:\lab6\Server\obj\Debug\Server.exe
+F:\lab6\Server\obj\Debug\Server.pdb
+F:\lab6\Server\bin\Debug\Server.exe
+F:\lab6\Server\bin\Debug\Server.pdb
+F:\lab6\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\lab6\Server\obj\Debug\Server.Form1.resources
+F:\lab6\Server\obj\Debug\Server.Properties.Resources.resources
+F:\lab6\Server\obj\Debug\Server.csproj.GenerateResource.Cache
